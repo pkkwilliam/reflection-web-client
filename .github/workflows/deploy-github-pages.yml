@@ -35,11 +35,9 @@ jobs:
         with:
           node-version: "16.x"
       - run: npm install
-      - run: npm run build
-      - run: npm run static-build
+      - run: npm run build-prod
         env:
           CI: false
-      - run: mv out build
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
