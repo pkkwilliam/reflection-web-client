@@ -37,6 +37,8 @@ jobs:
       - run: npm install
       - run: npm run build-prod
       - run: ls
+      - run: mv out build
+      - run: ls
         env:
           CI: false
       - name: Upload artifact
