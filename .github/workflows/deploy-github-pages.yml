@@ -36,6 +36,7 @@ jobs:
           node-version: "16.x"
       - run: npm install
       - run: npm run build-prod
+      - run: ls
         env:
           CI: false
       - name: Upload artifact
