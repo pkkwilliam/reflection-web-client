@@ -1,7 +1,7 @@
 {
   "company": {
-    "name": "React landing page 2021",
-    "logo": "/assets/images/logo.png"
+    "name": "NoFlee",
+    "logo": "/assets/images/noflee_black.png"
   },
   "navigation": [
     {
@@ -12,7 +12,6 @@
       "name": "Features",
       "href": "features"
     },
-
     {
       "name": "Pricing",
       "href": "pricing"
@@ -27,57 +26,57 @@
     "href": "#"
   },
   "mainHero": {
-    "title": "Use me as your",
-    "subtitle": "landing page.",
-    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+    "title": "Welcome to NoFlee",
+    "subtitle": "Together, We Make Roads Safer",
+    "description": "With community reporting and smart technology, holding hit-and-run offenders accountable has never been easier.",
     "img": "/assets/images/happyTeam.jpeg",
     "primaryAction": {
-      "text": "Get started",
+      "text": "Join Waitlist",
       "href": "#"
     },
     "secondaryAction": {
-      "text": "Email us",
-      "href": "mailto:issaafakattan@gmail.com?subject=I like react landing page!"
+      "text": "Contact Us",
+      "href": "mailto:contact@noflee.com?subject=Interested in NoFlee!"
     }
   },
   "product": {
-    "title": "React landing page 2021",
+    "title": "Why NoFlee?",
     "items": [
       {
-        "title": "A plug n play template",
-        "description": "Just edit the config.json file with details about your company and voila your beautiful state of the art landing page is ready to go live! Remember to also update your assets, add any images you want to show to /assets/images and link them in the config.json",
+        "title": "Real-time Alerts",
+        "description": "Get real-time alerts for hazards on the road and take immediate action to avoid them.",
         "img": "/assets/images/product1.jpg"
       },
       {
-        "title": "Make it your own!",
-        "description": "Play around with the theme.ts file and configure the color palette to match the branding of your company! If you're feeling wild, maybe change some tailwind css as well!",
+        "title": "Smart Guidance",
+        "description": "Stay safe with smart route suggestions based on real-time traffic and safety data.",
         "img": "/assets/images/product2.jpg"
       }
     ]
   },
   "features": {
-    "title": "Latest & greatest ",
-    "subtitle": "All the best technologies out there!",
-    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+    "title": "Advanced Safety Features",
+    "subtitle": "Powered by cutting-edge technology",
+    "description": "NoFlee combines AI, real-time data, and smart insights to make roads safer for everyone.",
     "items": [
       {
-        "name": "React.js",
-        "description": "React is a free and open-source front-end JavaScript library for building user interfaces or UI components.",
+        "name": "AI-Powered Alerts",
+        "description": "Our AI constantly monitors and predicts road conditions to keep you safe.",
         "icon": "/assets/images/react.png"
       },
       {
-        "name": "Tailwind",
-        "description": "Tailwind CSS is a highly customizable, low-level CSS framework for quickly creating beautiful designs without any annoying opinionated stylesheet nonsense.",
+        "name": "Community-driven Data",
+        "description": "Receive and share road updates with the NoFlee community for a safer journey.",
         "icon": "/assets/images/tailwindcss.svg"
       },
       {
-        "name": "Next.js",
-        "description": "Next.js is a framework for server-rendered React applications using Next.js.",
+        "name": "Seamless Integration",
+        "description": "Works with your favorite navigation tools for a smooth experience.",
         "icon": "/assets/images/nextjs.svg"
       },
       {
-        "name": "Typescript",
-        "description": "TypeScript is a programming language developed and maintained by Microsoft.",
+        "name": "Multi-language Support",
+        "description": "NoFlee supports multiple languages to ensure everyone can use it easily.",
         "icon": "/assets/images/ts.png"
       }
     ]
@@ -100,7 +99,6 @@
         "name": "Pro",
         "price": "$15",
         "priceDetails": "per user",
-
         "features": [
           "5 users",
           "Priority Support",
@@ -124,24 +122,19 @@
   "about": {
     "sections": [
       {
-        "name": "Something",
+        "name": "Our Mission",
         "href": "#",
-        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+        "content": "NoFlee is dedicated to making roads safer by empowering drivers with advanced technology and real-time insights."
       },
       {
-        "name": "Something",
+        "name": "Our Vision",
         "href": "#",
-        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+        "content": "To create a world where road accidents are a thing of the past, and safety is everyone's priority."
       },
       {
-        "name": "Something",
+        "name": "Our Team",
         "href": "#",
-        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
-      },
-      {
-        "name": "Something",
-        "href": "#",
-        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+        "content": "We are a passionate team of developers, data scientists, and road safety enthusiasts committed to bringing innovative solutions to the world."
       }
     ],
     "socialMedia": {
