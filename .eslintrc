@@ -1,7 +1,8 @@
 {
   // Configuration for JavaScript files
-  "extends": ["airbnb-base", "plugin:prettier/recommended"],
+  "extends": ["airbnb-base", "plugin:prettier/recommended", ],
   "rules": {
+    "no-unused-vars": "off",
     "prettier/prettier": [
       "error",
       {
