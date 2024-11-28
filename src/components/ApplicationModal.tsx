@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 
 import {
   Dialog,
@@ -14,7 +14,7 @@ export type ApplicationModalProps = {
   title: string;
 };
 
-const ApplicationModal: React.ReactNode = (props: ApplicationModalProps) => {
+export const ApplicationModal = (props: ApplicationModalProps) => {
   const { content, show, setShow, title } = props;
 
   return (
@@ -74,5 +74,3 @@ const ApplicationModal: React.ReactNode = (props: ApplicationModalProps) => {
     </Dialog>
   );
 };
-
-export default ApplicationModal;
