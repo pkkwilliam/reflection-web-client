@@ -5,16 +5,8 @@
   },
   "navigation": [
     {
-      "name": "Product",
-      "href": "product"
-    },
-    {
       "name": "Features",
       "href": "features"
-    },
-    {
-      "name": "Pricing",
-      "href": "pricing"
     },
     {
       "name": "About",
@@ -32,7 +24,7 @@
     "img": "/assets/images/happyTeam.jpeg",
     "primaryAction": {
       "text": "Join Waitlist",
-      "href": "#"
+      "href": "emailSubscription"
     },
     "secondaryAction": {
       "text": "Contact Us",
@@ -55,28 +47,28 @@
     ]
   },
   "features": {
-    "title": "Advanced Safety Features",
+    "title": "Advanced Features",
     "subtitle": "Powered by cutting-edge technology",
-    "description": "NoFlee combines AI, real-time data, and smart insights to make roads safer for everyone.",
+    "description": "NoFlee enables users to report traffic incidents and share them with the community for swift action.",
     "items": [
       {
-        "name": "AI-Powered Alerts",
+        "name": "Community Empowerment",
         "description": "Our AI constantly monitors and predicts road conditions to keep you safe.",
         "icon": "/assets/images/react.png"
       },
       {
-        "name": "Community-driven Data",
-        "description": "Receive and share road updates with the NoFlee community for a safer journey.",
+        "name": "Video Evidence",
+        "description": "Upload and analyze footage of incidents to support law enforcement and promote accountability.",
         "icon": "/assets/images/tailwindcss.svg"
       },
       {
-        "name": "Seamless Integration",
-        "description": "Works with your favorite navigation tools for a smooth experience.",
+        "name": "Real-Time Alerts",
+        "description": "Receive instant notifications about reported incidents in your area.",
         "icon": "/assets/images/nextjs.svg"
       },
       {
-        "name": "Multi-language Support",
-        "description": "NoFlee supports multiple languages to ensure everyone can use it easily.",
+        "name": "AI-Powered Insights",
+        "description": "Harness advanced technology to assess evidence and verify claims with precision.",
         "icon": "/assets/images/ts.png"
       }
     ]
@@ -138,7 +130,8 @@
       }
     ],
     "socialMedia": {
-      "github": "https://github.com/issaafalkattan",
+      "email": "mailto:kakeiwcs@gmail.com?subject=Message to NoFlee",
+      "github": "https://github.com/pkkwilliam",
       "twitter": "https://twitter.com/issaafkattan",
       "linkedin": "https://www.linkedin.com/in/issaaf-kattan/"
     }
